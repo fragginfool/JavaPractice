@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Scholarship",
+            "request": "launch",
+            "mainClass": "Scholarship"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestInvoice2",
+            "request": "launch",
+            "mainClass": "TestInvoice2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestInvoice",
+            "request": "launch",
+            "mainClass": "TestInvoice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestDigitalCamera",
+            "request": "launch",
+            "mainClass": "TestDigitalCamera"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pay",
+            "request": "launch",
+            "mainClass": "Pay"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Coffee",
+            "request": "launch",
+            "mainClass": "Coffee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Week5_temp",
+            "request": "launch",
+            "mainClass": "Week5_temp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Second_program",
+            "request": "launch",
+            "mainClass": "Second_program"
+        }
+    ]
+}

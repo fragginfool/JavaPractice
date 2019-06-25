@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BarGraph",
+            "request": "launch",
+            "mainClass": "BarGraph"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Population",
+            "request": "launch",
+            "mainClass": "Population"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RetirementGoal",
+            "request": "launch",
+            "mainClass": "RetirementGoal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Knots",
+            "request": "launch",
+            "mainClass": "Knots"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inclass3",
+            "request": "launch",
+            "mainClass": "Inclass3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inclass2",
+            "request": "launch",
+            "mainClass": "Inclass2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inclass1",
+            "request": "launch",
+            "mainClass": "Inclass1"
+        }
+    ]
+}

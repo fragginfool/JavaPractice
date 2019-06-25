@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Interest",
+            "request": "launch",
+            "mainClass": "Interest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Salary",
+            "request": "launch",
+            "mainClass": "Salary"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Paint",
+            "request": "launch",
+            "mainClass": "Paint"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PaintCalculator",
+            "request": "launch",
+            "mainClass": "PaintCalculator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MetricConversion",
+            "request": "launch",
+            "mainClass": "MetricConversion"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GasPrices",
+            "request": "launch",
+            "mainClass": "GasPrices"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Percentages2",
+            "request": "launch",
+            "mainClass": "Percentages2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Percentages",
+            "request": "launch",
+            "mainClass": "Percentages"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Week3_DemoRaise2",
+            "request": "launch",
+            "mainClass": "Week3_DemoRaise2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Week3_DemoRaise1",
+            "request": "launch",
+            "mainClass": "Week3_DemoRaise1"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dollars",
+            "request": "launch",
+            "mainClass": "Dollars"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DogBoarding",
+            "request": "launch",
+            "mainClass": "DogBoarding"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Eggs",
+            "request": "launch",
+            "mainClass": "Eggs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InchesToFeetInteractive",
+            "request": "launch",
+            "mainClass": "InchesToFeetInteractive"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InchesToFeet",
+            "request": "launch",
+            "mainClass": "InchesToFeet"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProjectedSalesInteractive",
+            "request": "launch",
+            "mainClass": "ProjectedSalesInteractive"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProjectedSales",
+            "request": "launch",
+            "mainClass": "ProjectedSales"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MilesToFeetInteractive",
+            "request": "launch",
+            "mainClass": "MilesToFeetInteractive"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MilesToFeet",
+            "request": "launch",
+            "mainClass": "MilesToFeet"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloNameDialog",
+            "request": "launch",
+            "mainClass": "HelloNameDialog"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetUserInfo",
+            "request": "launch",
+            "mainClass": "GetUserInfo"
+        }
+    ]
+}

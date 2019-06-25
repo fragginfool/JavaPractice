@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestCircle",
+            "request": "launch",
+            "mainClass": "TestCircle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestBirdSighting2",
+            "request": "launch",
+            "mainClass": "TestBirdSighting2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestBirdSighting",
+            "request": "launch",
+            "mainClass": "TestBirdSighting"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Billing",
+            "request": "launch",
+            "mainClass": "Billing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FormLetterWriter",
+            "request": "launch",
+            "mainClass": "FormLetterWriter"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - week4_employee",
+            "request": "launch",
+            "mainClass": "week4_employee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "Employee"
+        }
+    ]
+}
