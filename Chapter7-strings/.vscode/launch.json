@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Week7Practical",
+            "request": "launch",
+            "mainClass": "Week7Practical"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CountSpaces",
             "request": "launch",
             "mainClass": "CountSpaces"

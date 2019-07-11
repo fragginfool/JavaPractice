@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoSalesperson2",
+            "request": "launch",
+            "mainClass": "DemoSalesperson2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoSalesperson",
+            "request": "launch",
+            "mainClass": "DemoSalesperson"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inclass1",
+            "request": "launch",
+            "mainClass": "Inclass1"
+        }
+    ]
+}
